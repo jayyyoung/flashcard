@@ -1,0 +1,1 @@
+{"front":"who do you love?","back":"me","type":"basic"};{"text":"who do you love?","blank":"you","blankDeleted":"who do _____ love?","type":"blank"};{"front":"hello motto?","back":"yes","type":"basic"};
